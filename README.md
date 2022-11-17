@@ -1,3 +1,9 @@
+# cwebb612.github.io
+
+# npm run deploy
+
+to deploy app to webb on https://cwebb612.github.io
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
