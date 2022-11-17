@@ -4,6 +4,8 @@
   "homepage": "https://cwebb612.github.io",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
     "@mui/material": "^5.10.14",
     "@mui/styled-engine-sc": "^5.10.14",
     "@testing-library/jest-dom": "^5.16.5",
@@ -48,5 +50,17 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
+  },
+  "description": "# npm run deploy",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwebb612/cwebb612.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwebb612/cwebb612.github.io/issues"
   }
 }
