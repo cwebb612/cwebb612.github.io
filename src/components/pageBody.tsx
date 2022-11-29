@@ -13,13 +13,12 @@ const PageBody: FC = () => {
       <Box
       sx={{
         position: 'absolute',
-        top: '30%',
-        left: '10%',
+        top: '75%',
+        left: '25%',
         flexDirection: 'row',
+        zIndex: 1,
       }}
       >
-        <img src={headshot} style={{ width: '25%', height: '25%' }}/>
-        <Typography variant="h6"> hey man heres the cite </Typography>
         <NavBar/>
       </Box>
     </Box>

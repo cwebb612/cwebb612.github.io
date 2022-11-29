@@ -4,13 +4,10 @@ import { green, blue, red } from '@mui/material/colors';
 const theme = createTheme({
   palette: {
     primary: {
-      main: blue[500],
+      main: 'rgba(15, 10, 29, 1)',
     },
     secondary: {
-      main: green[100],
-    },
-    error: {
-      main: red[500],
+      main: 'rgba(239, 245, 226, 1)'
     },
   },
   typography: {
